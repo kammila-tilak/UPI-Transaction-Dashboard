@@ -70,5 +70,7 @@ This UPI Transaction Dashboard serves as a powerful tool to understand transacti
 
 ---
 
-## Contact
-For queries or feedback, reach out to [Your Email] or visit [Your LinkedIn Profile].
+## Contact  
+For any queries or suggestions, feel free to reach out:  
+- **Email:** [kammilatilak@gmail.com](mailto:kammilatilak@gmail.com)  
+- **LinkedIn:** [Tilak Kammila](https://www.linkedin.com/in/tilak-kammila)  
