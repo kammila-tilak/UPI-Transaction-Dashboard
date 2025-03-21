@@ -42,7 +42,6 @@ This UPI Transaction Dashboard is an interactive analytical tool designed to vis
 ### 3. Monthly Balance: Column chart  
 ![image-alt](https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/page%205.png)
 
-https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/page%205.png
 ---
 
 ## Tools Used
