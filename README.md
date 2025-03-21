@@ -28,17 +28,21 @@ This UPI Transaction Dashboard is an interactive analytical tool designed to vis
 
 ## Screenshots 📸
 ### 1. Dashboard Overview  
-![Dashboard Overview](./screenshots/dashboard_overview.png)
+![Dashboard Overview](https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/Page%201.png)
 
-### 2. Monthly Transaction Analysis  
-![Monthly Transactions](./screenshots/monthly_transactions.png)
+![Dashboard Overview](https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/Page%202.png)
 
-### 3. City-wise Transaction Details  
-![City-wise Analysis](./screenshots/city_wise_analysis.png)
 
-### 4. Transaction Amount by Currency  
-![Currency Analysis](./screenshots/currency_analysis.png)
+### 2. Monthly Transaction Analysis:Column Chart  
+![Monthly Transactions](https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/page%203.png)
 
+### 3. Monthly Balance: Line chart  
+![image-alt](https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/page%204.png)
+
+### 3. Monthly Balance: Column chart  
+![image-alt](https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/page%205.png)
+
+https://github.com/kammila-tilak/UPI-Transaction-Dashboard/blob/d52921f2ae42ae0b803eede46828cb31d15fded1/page%205.png
 ---
 
 ## Tools Used
